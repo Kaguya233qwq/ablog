@@ -1,0 +1,30 @@
+{
+	"name": "vitepress-blog",
+	"version": "1.0.0",
+	"private": true,
+	"author": "白云苍狗",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"dev": "vitepress dev ./",
+		"build": "vitepress build ./",
+		"preview": "vitepress preview ./"
+	},
+	"directories": {
+		"doc": "docs"
+	},
+	"devDependencies": {
+		"@waline/client": "^3.5.6",
+		"fast-glob": "^3.3.3",
+		"gray-matter": "^4.0.3",
+		"less": "^4.3.0",
+		"medium-zoom": "^1.1.0",
+		"remove-markdown": "^0.6.0",
+		"typescript": "^5.1.6",
+		"vitepress": "^1.1.0"
+	},
+	"packageManager": "pnpm@10.8.1+sha512.c50088ba998c67b8ca8c99df8a5e02fd2ae2e2b29aaf238feaa9e124248d3f48f9fb6db2424949ff901cffbb5e0f0cc1ad6aedb602cd29450751d11c35023677",
+	"dependencies": {
+		"vue": "^3.5.13"
+	}
+}
