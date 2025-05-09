@@ -84,5 +84,9 @@ export default defineConfigWithTheme<ThemeConfig>({
   markdown: {
     lineNumbers: true
   },
-  srcExclude: ['README.md', 'README_en-US.md']
+  srcExclude: ['README.md', 'README_en-US.md'],
+  head :[
+    // 谷歌站长工具验证
+    ['meta', { name: "google-site-verification", content: "fJlvkqXcjV4E6cNOcrfglYa1aZQSRJ2Eu4ye31nCHgE" }],
+  ]
 });
