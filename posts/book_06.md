@@ -7,6 +7,9 @@ permalink: /posts/b1980b
 description: >-
   A daring sci-fi vision of humanity's last gamble：steering Earth itself to a
   new home before the Sun dies.
+prev:
+  text: Book - Supernova Era
+  link: /posts/183341
 next:
   text: Book - Ball Lightning
   link: /posts/6fee9f

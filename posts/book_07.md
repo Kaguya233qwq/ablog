@@ -1,6 +1,16 @@
 ---
 title: Book - Supernova Era
-description: A haunting vision of a post-adult world where children inherit a planet they’re not ready to rule.
+datetime: '2025-04-30 15:17:07'
+permalink: /posts/183341
+description: >-
+  A haunting vision of a post-adult world where children inherit a planet
+  they’re not ready to rule.
+prev:
+  text: Book - Sunrise on the Reaping
+  link: /posts/d251bd
+next:
+  text: Book - The Wandering Earth
+  link: /posts/b1980b
 ---
 
 ![BookCover](https://m.media-amazon.com/images/I/91Fmcn+pc2L._SX385_.jpg)

@@ -77,7 +77,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     footer: {
       message:
         'Theme by <a href="https://github.com/izhichao/vitepress-theme-minimalism" target="_blank">Minimalism</a>',
-      copyright: 'Copyright © 2017-2025 <a href="https://github.com/izhichao" target="_blank">Marisa</a>'
+      copyright: 'Copyright © 2017-2025 <a href="" target="_blank">Marisa</a>'
     },
     search: { provider: 'local' }
   },

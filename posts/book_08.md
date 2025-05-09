@@ -1,6 +1,13 @@
 ---
 title: Book - Sunrise on the Reaping
-description: A haunting return to Panem, where the Hunger Games are no longer just a spectacle — they’re a weapon of control.
+datetime: '2025-04-30 15:45:11'
+permalink: /posts/d251bd
+description: >-
+  A haunting return to Panem, where the Hunger Games are no longer just a
+  spectacle — they’re a weapon of control.
+next:
+  text: Book - Supernova Era
+  link: /posts/183341
 ---
 
 # 📚 *Sunrise on the Reaping*: A Must-Read Prequel That Redefines The Hunger Games Universe – Trust Me, It’s HOT🔥
