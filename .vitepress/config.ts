@@ -88,5 +88,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   head :[
     // 谷歌站长工具验证
     ['meta', { name: "google-site-verification", content: "fJlvkqXcjV4E6cNOcrfglYa1aZQSRJ2Eu4ye31nCHgE" }],
+    // bing站长工具验证
+    ['meta', { name: "msvalidate.01", content: "EB5CF79DAAF9BA8AE0AAB98CD7D12EF7" }]
   ]
 });
